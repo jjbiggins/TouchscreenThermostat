@@ -46,7 +46,7 @@ Our loop() function contained handled any events for the touchscreen, mainly the
 
 (ii) Object-Oriented Design
 
-![](RackMultipart20200519-4-1tdseej_html_b913617a3ed929f2.jpg)        ![](RackMultipart20200519-4-1tdseej_html_aa230ff94a2832cc.jpg) ![](RackMultipart20200519-4-1tdseej_html_a567e7ed18447877.jpg) ![](RackMultipart20200519-4-1tdseej_html_cb24497fb09b59ea.jpg) ![](RackMultipart20200519-4-1tdseej_html_d195a8cd37c8dd90.jpg) ![](RackMultipart20200519-4-1tdseej_html_8d1c071692e68dcf.jpg)
+![](https://raw.githubusercontent.com/jjbiggins/touchscreen_thermostat/master/Pasted%20Graphic.png)
 
 (iii) Screenshots from final product
 
