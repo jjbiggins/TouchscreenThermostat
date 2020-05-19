@@ -70,7 +70,7 @@ Components used in circuit:
 
 The circuit diagram is shown below:
 
-![](RackMultipart20200519-4-1tdseej_html_f17d6282d2d4ff7d.png)
+![](https://raw.githubusercontent.com/jjbiggins/touchscreen_thermostat/master/Pasted%20Graphic%20copy.png)
 
 The adafruit touchscreen was configured as a capacitive touchscreen in order to detect any fingers touching the screen.SPI mode was used which required 5 pins to be connected the arduino as shown in the circuit diagram, as well as the SDA and SCL lines. Originally, the touchscreen would stop working when we connected the SDA and SCL to both the touchscreen and the RTC, we tried different wiring schemes and ideas but nothing seemed to work. We eventually figured out that we needed a pullup resistor in order to get both the touchscreen and the RTC working simultaneously.
 
