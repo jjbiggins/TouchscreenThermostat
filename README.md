@@ -42,7 +42,7 @@ Our loop() function contained handled any events for the touchscreen, mainly the
 
 (ii) Object-Oriented Design
 
-![](https://raw.githubusercontent.com/jjbiggins/touchscreen_thermostat/master/Pasted%20Graphic.png)
+![](https://raw.githubusercontent.com/jjbiggins/touchscreen_thermostat/master/img/Pasted%20Graphic.png)
 
 (iii) Screenshots from final product
 
