@@ -38,7 +38,7 @@ We decided to use tabs as our outline so we could make the UI as clean and easy-
 
 Our setup() function declared our objects and set all of our initial values for variables. It set up all of our tabs and set the default tab to the &#39;Current&#39; page.
 
-Our loop() function contained handled any events for the touchscreen, mainly the screen being touched. There were statements that would handle the changing of tabs, and would highlight the current tab and set the previous tab back to its default. It also clears the screen and loads the specified screen for the tab by calling a method in either the Temperature or Date class. Then we had statements that would handle the events depending on which tab was the current tab. These statements would detect events based on the area of the screen that was touched and if it was in the specified boundaries where a component was. ![](RackMultipart20200519-4-1tdseej_html_b90c090172e11f3.jpg)
+Our loop() function contained handled any events for the touchscreen, mainly the screen being touched. There were statements that would handle the changing of tabs, and would highlight the current tab and set the previous tab back to its default. It also clears the screen and loads the specified screen for the tab by calling a method in either the Temperature or Date class. Then we had statements that would handle the events depending on which tab was the current tab. These statements would detect events based on the area of the screen that was touched and if it was in the specified boundaries where a component was. ![](https://raw.githubusercontent.com/jjbiggins/touchscreen_thermostat/master/Pasted%20Graphic%202.png)
 
 (i) Initial UI Storyboard Design
 
