@@ -42,7 +42,7 @@ Our loop() function contained handled any events for the touchscreen, mainly the
 
 (i) Initial UI Storyboard Design
 
-![](RackMultipart20200519-4-1tdseej_html_67bcc691dff81c3c.jpg)
+![](https://raw.githubusercontent.com/jjbiggins/touchscreen_thermostat/master/Scanned%20with%20CamScanner.png)
 
 (ii) Object-Oriented Design
 
