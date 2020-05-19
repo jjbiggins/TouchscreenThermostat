@@ -38,7 +38,7 @@ Our loop() function contained handled any events for the touchscreen, mainly the
 
 (i) Initial UI Storyboard Design
 
-![](https://raw.githubusercontent.com/jjbiggins/touchscreen_thermostat/master/img/Scanned%20with%20CamScanner.png)
+![](https://raw.githubusercontent.com/jjbiggins/touchscreen_thermostat/master/img/Pasted%20Graphic%202.png)
 
 (ii) Object-Oriented Design
 
